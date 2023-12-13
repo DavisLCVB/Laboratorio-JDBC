@@ -1,4 +1,4 @@
-package com.labjdbc.domain;
+package com.labjdbc.domain.userdomain;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

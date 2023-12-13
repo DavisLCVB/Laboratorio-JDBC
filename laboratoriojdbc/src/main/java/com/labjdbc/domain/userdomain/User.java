@@ -1,4 +1,4 @@
-package com.labjdbc.domain;
+package com.labjdbc.domain.userdomain;
 
 public class User {
     private int iDUser;

@@ -1,7 +1,8 @@
 package com.labjdbc.data;
 
 import java.util.List;
-import com.labjdbc.domain.User;
+
+import com.labjdbc.domain.userdomain.User;
 
 public interface DataBaseActions {
 
