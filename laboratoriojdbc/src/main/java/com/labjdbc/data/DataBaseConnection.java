@@ -37,4 +37,9 @@ public class DataBaseConnection {
         preparedStatement.close();
         connection.close();
     }
+
+    public static void close(ResultSet resultSet, PreparedStatement preparedStatement) throws SQLException {
+        resultSet.close();
+        preparedStatement.close();
+    }
 }
